@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0, 1.5em;
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #7b7066;
+    font-family: 'poppins', 'Belanosima';
+}
+
+.quienes{
+    color: #f5dab5;
+    gap: 10px;
+    text-align: center;
+    font-weight: 400;
+}
+
+/*Section*/
+
+section{
+    background-color: #f9d9ac;
+    color: #86998f;
+    gap: 10px;
+    display: grid;
+    justify-content: space-around;
+    width: auto;
+}
+
+/* Footer */
+ion-icon{
+    color: #bad3c6;
+    font-size: 1.5rem;
+  }
+
+  .piePagina{
+    display: grid;
+    padding: 5;
+    grid-template-columns: 1fr 2fr 1fr 0.5fr;
+    justify-items: center;
+    align-items: center;
+    background-color: #7b7066;
+    color: #bad3c6;
+    text-align: center;
+}
+#redesSociales{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    list-style-type: none;
+}
+
+/* SECCION RESPONSIVE */
+@media screen and (max-width: 850px) {
+    main {
+      display: block;
+    }
+     section {
+        width: 100% !important;
+    }
+  }
+ 

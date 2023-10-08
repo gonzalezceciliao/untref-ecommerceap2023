@@ -1,0 +1,141 @@
+[
+    {
+        "codigo" : "01",
+        "nombre" : "Abrigo 01",
+        "precio" : "1000",
+        "imagen" : "./img/abrigo1.jpg"
+    }, 
+
+    {
+        "codigo" : "02",
+        "nombre" : "Abrigo 02",
+        "precio" : "1000",
+        "imagen" : "./img/abrigo2.jpg"
+    }, 
+
+    {
+        "codigo" : "03",
+        "nombre" : "Abrigo 03",
+        "precio" : "1000",
+        "imagen" : "./img/abrigo3.jpg"
+    }, 
+
+    {
+        "codigo" : "04",
+        "nombre" : "Abrigo 04",
+        "precio" : "1000",
+        "imagen" : "./img/abrigo4.jpg"
+    }, 
+
+    {
+        "codigo" : "05",
+        "nombre" : "Abrigo 05",
+        "precio" : "1000",
+        "imagen" : "./img/abrigo5.jpg"
+    }, 
+
+    {
+        "codigo" : "06",
+        "nombre" : "Abrigo 06",
+        "precio" : "1000",
+        "imagen" : "./img/abrigo6.jpg"
+    }, 
+
+    {
+        "codigo" : "07",
+        "nombre" : "Abrigo 07",
+        "precio" : "1000",
+        "imagen" : "./img/abrigo7.jpg"
+    }, 
+
+    {
+        "codigo" : "08",
+        "nombre" : "Abrigo 08",
+        "precio" : "1000",
+        "imagen" : "./img/abrigo8.jpg"
+    }, 
+
+    {
+        "codigo" : "09",
+        "nombre" : "Accesorio 01",
+        "precio" : "1000",
+        "imagen" : "./img/accesorio1.jpg"
+    },
+
+    {
+        "codigo" : "10",
+        "nombre" : "Accesorio 02",
+        "precio" : "1000",
+        "imagen" : "./img/accesorio2.jpg"
+    },
+    
+    {
+        "codigo" : "11",
+        "nombre" : "Accesorio 03",
+        "precio" : "1000",
+        "imagen" : "./img/accesorio3.jpg"
+    }, 
+
+    {
+        "codigo" : "12",
+        "nombre" : "Accesorio 04",
+        "precio" : "1000",
+        "imagen" : "./img/accesorio4.jpg"
+    },
+
+    {
+        "codigo" : "13",
+        "nombre" : "Accesorio 05",
+        "precio" : "1000",
+        "imagen" : "./img/accesorio5.jpg"
+    },
+
+    {
+        "codigo" : "14",
+        "nombre" : "Accesorio 06",
+        "precio" : "$1000",
+        "imagen" : "./img/accesorio6.jpg"
+    },
+
+    {
+        "codigo" : "15",
+        "nombre" : "Calzado 01",
+        "precio" : "1000",
+        "imagen" : "./img/calzado1.jpg"
+    },
+
+    {
+        "codigo" : "16",
+        "nombre" : "Calzado 02",
+        "precio" : "1000",
+        "imagen" : "./img/calzado2.jpg"
+    },
+
+    {
+        "codigo" : "17",
+        "nombre" : "Calzado 03",
+        "precio" : "1000",
+        "imagen" : "./img/calzado3.jpg"
+    },
+
+    {
+        "codigo" : "18",
+        "nombre" : "Pantalon 01",
+        "precio" : "1000",
+        "imagen" : "./img/pantalon1.jpg"
+    },
+
+    {
+        "codigo" : "19",
+        "nombre" : "Pantalon 02",
+        "precio" : "1000",
+        "imagen" : "./img/pantalon2.jpg"
+    },
+
+    {
+        "codigo" : "20",
+        "nombre" : "Pantalon 03",
+        "precio" : "1000",
+        "imagen" : "./img/pantalon3.jpg"
+    }
+]
